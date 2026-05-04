@@ -3,7 +3,7 @@ variable "resource_group_name" {
 }
 
 variable "name_sufix" {
-  default = "jgch"
+  default = "djti"
 }
 
 variable "location" {
