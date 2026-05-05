@@ -1,5 +1,5 @@
 variable "resource_group_name" {
-  default = "TODELETE"
+  default = "dev-rg-devops-david-tellez-infantes"
 }
 
 variable "name_sufix" {
